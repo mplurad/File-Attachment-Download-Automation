@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "High Radius Invoice Download Automation": {
+      "commandName": "Project",
+      "commandLineArgs": "HighRadiusCollectionsSA@addisongroup.onmicrosoft.com NoMor3Wint3r2022! HighRadiusBPC@addisongroup.com \"c:\\SSIS_Processing\\High Radius\\Invoices\\BPC\\\\\" \".PDF .XLS .XLSX\""
+    }
+  }
+}
